@@ -1,1 +1,1 @@
-# smile-detection-svm
+# smile-detection-CNN
